@@ -1,6 +1,5 @@
-<img src="![gitimg](https://github.com/Amos-Mugabi/Amos-Mugabi/assets/115138015/34a728c8-3895-4aef-b988-a40c5a209670)
-
-" alt=""> 
+![gitimg](https://github.com/Amos-Mugabi/Amos-Mugabi/assets/115138015/34a728c8-3895-4aef-b988-a40c5a209670)
+ 
 
 ### <div align="center">Hello, Welcome.👋</div>  
   
